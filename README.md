@@ -43,12 +43,14 @@ python3 scanner.py -d -p [port here] [IP here]
 
 or
 
+- need the permission mentioned at the beginning
 ```
 ./scanner.py -d -p [port here] [IP here]
 ```
 
 or
 
+- need the permission mentioned at the beginning
 ```
 scanner.py -d -p [port here] [IP here]
 ```
