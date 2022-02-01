@@ -45,6 +45,7 @@ class Scan:
                 self.openPorts.append(port)
 
         time.sleep(1)
+        self.connection.close()
         endTime = time.time()
         timeExec = endTime - startTime
 
@@ -61,6 +62,7 @@ class Scan:
                 self.openPorts.append(port)
 
         time.sleep(1)
+        self.connection.close()
         endTime = time.time()
         timeExec = endTime - startTime
 
@@ -77,6 +79,7 @@ class Scan:
                 self.openPorts.append(port)
 
         time.sleep(1)
+        self.connection.close()
         endTime = time.time()
         timeExec = endTime - startTime
 
