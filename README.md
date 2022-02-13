@@ -1,6 +1,6 @@
 # Simple PortScanner
 
-I made a Port scanner Simple for studys
+I made a Port scanner Simple for studys python, **please don't use this for bad actions**
 
 # How to use
 ### 1. Set permissions on file to used correctly with command:
